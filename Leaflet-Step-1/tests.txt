@@ -1,0 +1,8 @@
+https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson
+
+var queryUrl = "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=2020-01-01&endtime=" +
+  "2020-01-07&maxlongitude=-69.52148437&minlongitude=-123.83789062&maxlatitude=48.74894534&minlatitude=25.16517337";
+
+try - 90, 90, -180, 180
+
+try the jQuery method
